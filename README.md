@@ -11,7 +11,7 @@ I am a software developer focused on Artificial Intelligence, Machine Learning, 
 - **Full-Stack Integration:** Connecting heavy backend ML processing to dynamic web frontends (React, Three.js/WebGL).
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, JavaScript, SQL, PHP
+* **Languages:** Python, JavaScript, SQL
 * **AI/ML:** PyTorch, TensorFlow, ONNX, TensorRT, Hugging Face
 * **Backend:** FastAPI, Node.js, REST APIs
 * **Databases:** PostgreSQL, MySQL, Graph Databases, Redis
