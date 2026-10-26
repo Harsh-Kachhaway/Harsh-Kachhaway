@@ -17,7 +17,4 @@ I am a software developer focused on Artificial Intelligence, Machine Learning, 
 * **Databases:** PostgreSQL, MySQL, Graph Databases, Redis
 * **Tools/Deployment:** Git, Docker, Linux (Ubuntu/Debian)
 
-### 📈 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-Kachhaway&show_icons=true&theme=radium)
-
 📫 **Let's Connect:** [Find me on LinkedIn](https://www.linkedin.com/in/harsh-kachhaway)
